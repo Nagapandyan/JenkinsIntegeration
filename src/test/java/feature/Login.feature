@@ -1,5 +1,5 @@
 Feature: Login page
-
+@smoke
 Scenario: Navigate to Upoint login page URL
     Given The user opens chrome browser
     When User accesses login URL
